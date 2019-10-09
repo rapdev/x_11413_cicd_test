@@ -1,0 +1,23 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_11413_cicd_test.Demo 3",
+  "client_callable": false,
+  "description": null,
+  "name": "Demo 3",
+  "script": {
+    "____see": "sn/CICD Test Application/Script Include/active_true/x_11413_cicd_test.Demo 3.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "shar",
+  "sys_created_on": "2019-10-09 15:10:07",
+  "sys_id": "348c0a4fdb984c50c7e55886dc961911",
+  "sys_mod_count": 0,
+  "sys_name": "Demo 3",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": "read",
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_script_include_348c0a4fdb984c50c7e55886dc961911",
+  "sys_updated_by": "shar",
+  "sys_updated_on": "2019-10-09 15:10:07"
+}
