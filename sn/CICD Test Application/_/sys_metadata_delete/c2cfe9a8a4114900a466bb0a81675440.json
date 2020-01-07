@@ -1,0 +1,14 @@
+{
+  "sys_class_name": "sys_metadata_delete",
+  "sys_created_by": "cicd",
+  "sys_created_on": "2019-11-20 14:22:00",
+  "sys_id": "c2cfe9a8a4114900a466bb0a81675440",
+  "sys_mod_count": 0,
+  "sys_name": "testHash",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_dictionary_cmdb_ci_query_based_service_x_11413_cicd_test_u_test_hash",
+  "sys_updated_by": "cicd",
+  "sys_updated_on": "2019-11-20 14:22:00"
+}
