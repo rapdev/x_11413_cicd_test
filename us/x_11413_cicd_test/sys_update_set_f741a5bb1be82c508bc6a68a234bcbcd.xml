@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-11-24 22:35:38">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="CICD Test Application">268e9d5fdbb32300fcf417803996195e</application>
+<application_name>CICD Test Application</application_name>
+<application_scope>x_11413_cicd_test</application_scope>
+<application_version>1.0.4</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>CICD Test Application - 1.0.9</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>f741a5bb1be82c508bc6a68a234bcbcd</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>cicd</sys_created_by>
+<sys_created_on>2020-11-24 22:35:38</sys_created_on>
+<sys_id>c491e9f71b6c6050924878cf034bcb4b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>cicd</sys_updated_by>
+<sys_updated_on>2020-11-24 22:35:38</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Test Application">268e9d5fdbb32300fcf417803996195e</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_016129bb1be82c508bc6a68a234bcba3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_11413_cicd_test.Demo 9&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;Demo 9&lt;/name&gt;&lt;script&gt;&lt;![CDATA[//This is another demo]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;shar&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-11-24 22:35:06&lt;/sys_created_on&gt;&lt;sys_id&gt;016129bb1be82c508bc6a68a234bcba3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Demo 9&lt;/sys_name&gt;&lt;sys_package display_value="CICD Test Application" source="x_11413_cicd_test"&gt;268e9d5fdbb32300fcf417803996195e&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="CICD Test Application"&gt;268e9d5fdbb32300fcf417803996195e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_016129bb1be82c508bc6a68a234bcba3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;shar&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-11-24 22:35:06&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1965293294</payload_hash>
+<remote_update_set display_value="CICD Test Application - 1.0.9">c491e9f71b6c6050924878cf034bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>cicd</sys_created_by>
+<sys_created_on>2020-11-24 22:35:38</sys_created_on>
+<sys_id>0c91e9f71b6c6050924878cf034bcb4b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>175fc656a920000001</sys_recorded_at>
+<sys_updated_by>cicd</sys_updated_by>
+<sys_updated_on>2020-11-24 22:35:38</sys_updated_on>
+<table/>
+<target_name>Demo 9</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>147129bb48e82c50ccc1969a0cefb0ad</update_guid>
+<update_guid_history>147129bb48e82c50ccc1969a0cefb0ad:-1965293294</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
